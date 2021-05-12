@@ -13,7 +13,7 @@ Template repository to create a python library (like julearn)
 | ------------- | ------------- |------------- |
 | `brainrevenge`  | Package name  | `julearn` |
 | `https://github.com/brainrevenge/brainrevenge` | Github URL   | `https://github.com/juaml/julearn/` |
-| `<DOC_URL>` | DOCs URL   | `https://juaml.github.io/julearn` |
+| `https://brainrevenge.github.io/brainrevenge/` | DOCs URL   | `https://juaml.github.io/julearn` |
 | `Fede Raimondo` | Author's name | `Fede Raimondo` |
 | `f.raimondo@fz-juelich.de` | Author's name | `f.raimondo@fz-juelich.de` |
 | `BrainRevenge Project Library` | Short description | `FZJ AML Library`

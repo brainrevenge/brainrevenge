@@ -8,7 +8,7 @@ with open('README.md', 'r') as fh:
 
 
 DOWNLOAD_URL = 'https://github.com/brainrevenge/brainrevenge'
-URL = '<DOC_URL>'
+URL = 'https://brainrevenge.github.io/brainrevenge/'
 
 setuptools.setup(
     name='brainrevenge',
