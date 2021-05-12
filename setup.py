@@ -8,7 +8,7 @@ with open('README.md', 'r') as fh:
 
 
 DOWNLOAD_URL = 'https://github.com/brainrevenge/brainrevenge'
-URL = 'DOC_URL>'
+URL = '<DOC_URL>'
 
 setuptools.setup(
     name='brainrevenge',
@@ -37,7 +37,7 @@ setuptools.setup(
         'Source': DOWNLOAD_URL,
         'Tracker': f'{DOWNLOAD_URL}issues/',
     },
-    install_requires=[], # TODO: Complete
+    install_requires=[],  # TODO: Complete
     python_requires='>=3.6',
     use_scm_version=dict(
         version_scheme="python-simplified-semver",
