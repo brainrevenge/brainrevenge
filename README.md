@@ -11,12 +11,12 @@ Template repository to create a python library (like julearn)
 
 | Token  | Content | Example |
 | ------------- | ------------- |------------- |
-| `<PKG_NAME>`  | Package name  | `julearn` |
-| `<GITHUB_URL>` | Github URL   | `https://github.com/juaml/julearn/` |
+| `brainrevenge`  | Package name  | `julearn` |
+| `https://github.com/brainrevenge/brainrevenge` | Github URL   | `https://github.com/juaml/julearn/` |
 | `<DOC_URL>` | DOCs URL   | `https://juaml.github.io/julearn` |
-| `<AUTHOR_NAME>` | Author's name | `Fede Raimondo` |
-| `<AUTHOR_EMAIL>` | Author's name | `f.raimondo@fz-juelich.de` |
-| `<SHORT_DESC>` | Short description | `FZJ AML Library`
+| `Fede Raimondo` | Author's name | `Fede Raimondo` |
+| `f.raimondo@fz-juelich.de` | Author's name | `f.raimondo@fz-juelich.de` |
+| `BrainRevenge Project Library` | Short description | `FZJ AML Library`
 
 4. Go to https://pypi.org/
    1. login (maybe create an account)

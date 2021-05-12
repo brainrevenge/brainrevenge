@@ -23,7 +23,7 @@
 .. _`conda env`: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 .. _`Github`: https://github.com/
-.. _`<PKG_NAME> Github`: <GITHUB_URL>
+.. _`brainrevenge Github`: https://github.com/brainrevenge/brainrevenge
 
 .. _`Wikipedia`: https://wikipedia.org
 
