@@ -10,7 +10,7 @@
 
 .. _current:
 
-Current (0.0.0.dev)
+Current (0.0.1.dev)
 -------------------
 
 Enhancements
