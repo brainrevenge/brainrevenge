@@ -1,7 +1,7 @@
 .. include:: links.inc
 
-Installing brainrevenge
-==================
+Installing
+==========
 
 
 Requirements
